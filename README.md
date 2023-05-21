@@ -2,7 +2,7 @@
 
 
 
-**MOD1- Footprinting**
+##**MOD1- Footprinting**
      
 - **Netcraft:** Netcraft provides Internet security services, including anti-fraud and anti-phishing services, application testing, and PCI scanning.
 - **Sublist3r:** Sublist3r is a Python script designed to enumerate the subdomains of websites using OSINT. 
@@ -21,7 +21,7 @@
 - **OSINT Framework:** It is an open-source intelligence gathering framework that helps security professionals in performing automated footprinting and reconnaissance, OSINT research, and intelligence gathering.
 - **BillCipher:** It is an information gathering tool for a website or IP address. It can work on any operating system that supports Python 2, Python 3, and Ruby.
 
-**MOD2- Scanning Networks**
+##**MOD2- Scanning Networks**
      
 **Scanning Tools**
      
@@ -55,7 +55,7 @@
 - **Psiphon:** It is an open-source anonymizer software that allows attackers to surf the Internet through a secure proxy.
 - **Orbot:** It is a proxy app that allows other apps to use the Internet more securely. It uses Tor to encrypt Internet traffic and then hides it by bouncing through a series of computers around the world.
        
-**MOD3- Enumeration**
+##**MOD3- Enumeration**
 
 - **NetBIOS Enumerator:** It is an enumeration tool that shows how to use remote network support and to deal with some other web protocols, such as SMB.
 - **Nmap:** Attackers use the Nmap Scripting Engine (NSE) for discovering NetBIOS shares on a network. The nbstat script of NSE allows attackers to retrieve the target’s NetBIOS names and MAC addresses.
@@ -71,7 +71,7 @@
 - **DNSRecon:** It is a zone enumeration tool that assists users in enumerating DNS records such as A, AAAA, and CNAME. It also performs NSEC zone enumeration to obtain DNS record files of a target domain.
 - **PortQry utility:** It reports the port status of TCP and UDP ports on a selected target. Attackers can use the PortQry tool to perform TFTP enumeration. This utility reports the port status of target TCP and UDP ports on a local or remote computer.
        
-**MOD4- Vulnerability Analysis**
+##**MOD4- Vulnerability Analysis**
 
 - **Qualys VM:** It is a cloud-based service that gives immediate, global visibility into where IT systems might be vulnerable to the latest Internet threats and how to protect them. It helps to continuously identify threats and monitor unexpected changes in a network before they turn into breaches.
 - **Nessus Professional:** It is an assessment solution for identifying vulnerabilities, configuration issues, and malware that attackers use to penetrate networks. It performs vulnerability, configuration, and compliance assessment. 
@@ -81,7 +81,7 @@
 - **Vulners scanner:** It is an android application that performs passive vulnerability detection based on a software version’s fingerprint.
 - **SecurityMetrics Mobile:** It is a mobile defense tool that helps to identify mobile device vulnerabilities to protect customers’ sensitive data. It helps to avoid threats that originate from mobile malware, device theft, Wi-Fi network connectivity, data entry, etc.
 
-**MOD5- System Hacking**
+##**MOD5- System Hacking**
 
 **Password Recovery Tools**
 
@@ -324,7 +324,7 @@ application, such as anti-malware, a video player, or an ebook reader, to infect
 - **BleachBit** 
 - **ClearProg**
 
-**MOD6- Sniffing** 
+##**MOD6- Sniffing** 
 
 - **Wireshark:** It lets you capture and interactively browse the traffic running on a computer network. This tool uses WinPcap to capture packets on its own supported networks. It captures live network traffic from Ethernet, IEEE 802.11, PPP/HDLC, ATM, Bluetooth, USB, Token Ring, Frame Relay, and FDDI networks.
 - **SteelCentral Packet Analyzer:** It provides a graphical console for high-speed packet analysis. This tool comes integrated with Riverbed AirPcap adapters to analyze and troubleshoot 802.11 wireless networks.
@@ -345,7 +345,7 @@ part of the target network. This tool will analyze, drill down, and fix performa
 - **Nmap’s NSE script:** It allows you to check whether a system on a local Ethernet has its network card in promiscuous mode.
 - **NetScanTools Pro:** It includes the Promiscuous Mode Scanner tool to scan your subnet for network interfaces listening for all Ethernet packets in promiscuous mode.
 
-**MOD7- Social Engineering**
+##**MOD7- Social Engineering**
 
 **Phishing Tools**
 
@@ -399,7 +399,7 @@ part of the target network. This tool will analyze, drill down, and fix performa
 - **MSI Simple Phish**
 - **OhPhish:** It is a web-based portal for testing employees’ susceptibility to social engineering attacks. It is a phishing simulation tool that provides the organization with a platform to launch phishing simulation campaigns on its employees.
 
-**MOD-8 Denial-of-Service**
+##**MOD-8 Denial-of-Service**
 
 **DoS/DDoS Attack Tools**
 
@@ -441,7 +441,7 @@ part of the target network. This tool will analyze, drill down, and fix performa
 - **BlockDoS** 
 
 
-**MOD9- Session Hijacking**
+##**MOD9- Session Hijacking**
 
 - **Burp Suite:** It is an integrated platform for the security testing of web applications. It allows attackers to inspect and modify traffic between a browser and target application.
 - **OWASP ZAP** 
@@ -473,7 +473,7 @@ identifying, tracking, and repairing technical and logical flaws in source code,
 - **WebWatchBot** 
 
 
-**MOD10- Evading IDS, Firewalls, and Honeypots**
+##**MOD10- Evading IDS, Firewalls, and Honeypots**
 
 **Intrusion Detection Tools**
 
