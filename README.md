@@ -422,7 +422,7 @@ part of the target network. This tool will analyze, drill down, and fix performa
 
 - **FortiDDoS:** It provides comprehensive protection against DDoS attacks. It helps protect Internet infrastructure from threats and service disruptions by surgically removing network and application layer DDoS attacks while letting legitimate traffic flow without being impacted.
 - **DDoS Protector:** It Check Point DDoS Protector blocks DDoS attacks with multi-layered protection.
-- ` `**Terabit DDoS Protection System (DPS):** It is a solution for the detection and subsequent treatment of DDoS attacks. Terabit DPS helps ensure the maximum availability of a network and eliminates any disruptions caused by DoS/DDoS attacks.
+- **Terabit DDoS Protection System (DPS):** It is a solution for the detection and subsequent treatment of DDoS attacks. Terabit DPS helps ensure the maximum availability of a network and eliminates any disruptions caused by DoS/DDoS attacks.
 - **A10 Thunder Threat Protection System (TPS):** It ensures reliable access to key network services by detecting and blocking external threats such as DDoS and other cyber-attacks before they escalate into costly service outages.
 - **Imperva Incapsula DDoS protection:** It quickly mitigates any size attack without disrupting legitimate traffic or increasing latency. It is designed to provide multiple DDoS protection options and supports unicast and anycast technologies to power a many-to-many defense methodology.
 - **Anti DDoS Guardian** 
