@@ -1,7 +1,5 @@
 # Hacking-Tools
 
-
-
 ## MOD1- Footprinting
      
 - **Netcraft:** Netcraft provides Internet security services, including anti-fraud and anti-phishing services, application testing, and PCI scanning.
@@ -36,11 +34,10 @@
 **Ping Sweep Tools**
       
 - **Angry IP scanner:** It is an IP address and port scanner. It can scan IP addresses in any range as well as any of their ports. It pings each IP address to check if it is alive.
-- SolarWinds Engineer’s Toolset 
-- NetScanTools Pro 
-- Colasoft Ping Tool 
-- Visual Ping Tester 
-- OpUtils
+- **SolarWinds Engineer’s Toolset**
+- **Colasoft Ping Tool**
+- **Visual Ping Tester**
+- **OpUtils**
               
 **Proxy Tools**
 
@@ -109,11 +106,11 @@ OWFs) from NT’s SAM database. pwdump extracts LM and NTLM password hashes of l
 **Buffer Overflow Detection Tools**
 
 - **OllyDbg:** It is a 32-bit assembler-level analyzing debugger for Microsoft® Windows®. Its emphasis on binary code analysis makes it particularly useful when the source is unavailable. It debugs multithread applications and attaches to running programs.
-- Veracode 
-- Flawfinder 
-- Kiuwan 
-- Splint 
-- BOVSTT
+- **Veracode** 
+- **Flawfinder** 
+- **Kiuwan** 
+- **Splint** 
+- **BOVSTT**
 
 **Privilege Escalation Tools**
 
@@ -492,19 +489,4 @@ identifying, tracking, and repairing technical and logical flaws in source code,
 - **AlienVault USM:** It can perform threat detection, incident response, and compliance management across cloud, on-premises, and hybrid environments.
 
 Firewall Tools
-
-      
-      
-
-
-      
-       
-
-
-
-
-
-
-
-
 
